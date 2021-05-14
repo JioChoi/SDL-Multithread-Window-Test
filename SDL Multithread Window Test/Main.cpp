@@ -2,13 +2,12 @@
 #include <SDL.h>
 
 void loop1(bool& runningWindows) {
-
+	
 }
 
 void loop2(bool& runningWindows) {
 
 }
-
 
 int main(int argc, char* argv[]) {
 	/* Init SDL2 */
